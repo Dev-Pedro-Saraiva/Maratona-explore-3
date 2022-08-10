@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0%;
+  }
+  
+  body {
+    background-color: #FFEDD5;
+  
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  h1, h2, h3 .price {
+    font-family: 'Emilys Candy', cursive;
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  header {
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 13px;
+    padding-top: px;
+  }
+  header span {
+    color: #995000;
+  }
+  
+  header, section {
+    max-width: 500px;
+    margin:0 auto;
+  }
+  section {
+    margin-bottom: 24px;
+  }
+  
+  section h2 {
+    background-color: #FED7AA;
+    padding: 8px 16px;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 24px;
+    font-family: 'Emilys Candy', cursive;
+  }
+  
+  ul li {
+    margin-bottom: 16px;
+    display: flex;
+  }
+  
+  li .details {
+    max-width: 240px;
+  }
+  .details p {
+    line-height: 19px;
+  }
+  
+  .details h3 {
+      font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 26px;
+    margin-bottom: 8px;
+  }
+  
+  /* 
